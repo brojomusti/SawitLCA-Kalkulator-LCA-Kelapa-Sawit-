@@ -1,0 +1,6 @@
+{
+  "name": "SawitLCA — Kalkulator LCA Kelapa Sawit & Laporan PROPER KLHK",
+  "description": "Kalkulator Life Cycle Assessment (LCA) cradle-to-gate berbasis skema openLCA (ISO 14040/14044) untuk perkebunan dan pabrik kelapa sawit (CPO & PK) dengan generator laporan otomatis sesuai Pedoman PROPER KLHK 2021.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
